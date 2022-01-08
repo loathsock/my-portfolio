@@ -4,9 +4,9 @@ import { BrowserRouter as Router,
     Switch,
     Route,
     Link} from 'react-router-dom'
-import logo from '/home/glory/Desktop/Portfolio/portfolio/src/assets/imgs/logo.svg'
-import Moon from '/home/glory/Desktop/Portfolio/portfolio/src/assets/imgs/Moon.svg'
-import MoonLight from '/home/glory/Desktop/Portfolio/portfolio/src/assets/imgs/moon-light.png'
+import logo from '../../assets/imgs/logo.svg'
+import Moon from '../../assets/imgs/Moon.svg'
+import MoonLight from '../../assets/imgs/moon-light.png'
 import  BurgerMenu  from "./Burger/Burger"; 
 import  Menu  from "./Menu/Menu";
 interface NavTypes  {
