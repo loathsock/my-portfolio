@@ -20,7 +20,7 @@ const Main = ({darkMode, toggleMode}: DarKMode ) => {
                         <Span darkMode={darkMode}>
                         HI THERE! I'M 
                             </Span>   <br /> 
-                             <First> MED MED </First>   
+                             <First> MED </First>   
                               <Last darkMode={darkMode}>
                                Djedir
                              </Last> 
